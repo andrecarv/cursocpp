@@ -7,7 +7,7 @@ Várias coisas em C++ poderiam ser triviais, porém os custos dessas
 poderiam ter um revés caso o programador não os entendessem.
 
 Nomes importantes da linguagem C.
-Bjarne Stroustrup.
+Bjarne Shtroustrup.
 Dennis Ritchie: Criador da linguagem C e do unix.
 Brian Kernighan.
 
@@ -16,4 +16,13 @@ online.
 
 Dificuldades no aprendizado de C++, muito material, poucos com qualidade.
 
+clang tem ferramentas adicionais em comparação a g++, ex.: auto-complete.
 
+livro sobre C++ - A Tour of C++, Bjarne Shtroustrup.
+
+C++ não tinha atualização decente desde 2003, Após a criação de um comitê
+veio a atualização em 2011, o C++11, e de novo em 2014 (c++14).
+Há previsões para 2017, 2020.
+
+cara da microsoft Herb Sutter - trabalha com ensino de C++.
+Gabriel dos Reis.
